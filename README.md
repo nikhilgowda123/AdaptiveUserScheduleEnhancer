@@ -74,10 +74,12 @@ that the application keeps on adapting and recommendations will be updated as pe
 ## Getting Started ##
 
  - Install requirements.txt file by using below command
-pip install -r requirements.txt
+ 
+       `pip install -r requirements.txt`
 
  - run app.py by using following command
-flask run
+ 
+        `flask run`
 
  - You will be provided with a local IP Address for the Flask APP
 
