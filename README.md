@@ -71,10 +71,15 @@ of that particular restaurant or event so that it can be diminished (less priori
 while providing the recommendation for that particular user in future. This ensures
 that the application keeps on adapting and recommendations will be updated as per
 
-# Front End Design #
+## Getting Started ##
 
-![Screenshot](front-end1.png)
-![Screenshot](front-end2.png)
+ - Install requirements.txt file by using below command
+pip install -r requirements.txt
 
-The front-end design of the adaptive application is a critical component that enables the adaptation of content and functionalities to the user. It collects user data and interactions to inform the adaptation process, ensuring a positive user experience, granting users control over system behavior and functionality, and providing feedback on the system's adaptation to changing scenarios. The user interface design was also regarded from a product design perspective to ensure an intuitive and user-friendly interface, which significantly shapes the user's perceptions and interactions with the product.
+ - run app.py by using following command
+flask run
+
+ - You will be provided with a local IP Address for the Flask APP
+
+ - Use the local IP Address, Initiate and run the above API's by appropriate requests
 
